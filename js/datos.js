@@ -13,7 +13,7 @@ const coffees = [
       "Una fina capa de espuma de leche"
     ],
     details: "Notas de cacaos finos y nueces. Acidez media con cuerpo terroso y equilibrado.",
-    image: "imagenes/coffe3.jpg"
+    image: "imagenes/coffee3.jpg"
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const coffees = [
       "150ml de agua caliente"
     ],
     details: "Notas de chocolate amargo y caramelo. Cuerpo ligero y acidez baja.",
-    image: "imagenes/coffe2.jpg"
+    image: "imagenes/coffee2.jpg"
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const coffees = [
       "Cacao en polvo (opcional)"
     ],
     details: "Textura sedosa con notas de nuez y vainilla. Equilibrio perfecto entre café y leche.",
-    image: "imagenes/coffe3.jpg"
+    image: "imagenes/coffee3.jpg"
   },
   {
     id: 4,
@@ -58,7 +58,7 @@ const coffees = [
       "Una capa fina de espuma"
     ],
     details: "Dulce y cremoso, con notas de caramelo y cacao suave.",
-    image: "imagenes/coffe4.jpg"
+    image: "imagenes/coffee4.jpg"
   },
   {
     id: 5,
@@ -74,7 +74,7 @@ const coffees = [
       "Crema batida (opcional)"
     ],
     details: "Sabor dulce a chocolate con un fondo de café afrutado.",
-    image: "imagenes/coffe5.jpg"
+    image: "imagenes/coffee5.jpg"
   },
   {
     id: 6,
@@ -88,7 +88,7 @@ const coffees = [
       "1 cucharada de espuma de leche"
     ],
     details: "Sabor fuerte y brillante, con notas cítricas y final dulce.",
-    image: "imagenes/coffe6.jpg"
+    image: "imagenes/coffee6.jpg"
   },
   {
     id: 7,
@@ -102,7 +102,7 @@ const coffees = [
       "120ml de leche microespumada"
     ],
     details: "Textura aterciopelada con notas de avellana y chocolate con leche.",
-    image: "imagenes/coffe7.jpg"
+    image: "imagenes/coffee7.jpg"
   },
   {
     id: 8,
@@ -118,7 +118,7 @@ const coffees = [
       "50g de piloncillo"
     ],
     details: "Dulce y especiado, con aroma a canela y un toque ahumado de la olla de barro.",
-    image: "imagenes/coffe8.jpg"
+    image: "imagenes/coffee8.jpg"
   },
   {
     id: 9,
@@ -133,7 +133,7 @@ const coffees = [
       "Hielo al servir"
     ],
     details: "Muy suave y refrescante, con notas de chocolate, frutos secos y poca acidez.",
-    image: "imagenes/coffe9.jpg"
+    image: "imagenes/coffee9.jpg"
   },
   {
     id: 10,
@@ -147,6 +147,6 @@ const coffees = [
       "1 Shot de espresso caliente"
     ],
     details: "Contraste entre lo caliente y lo frío, dulce y amargo, con notas de vainilla y tostado.",
-    image: "imagenes/coffe10.jpg"
+    image: "imagenes/coffee10.jpg"
   }
 ];

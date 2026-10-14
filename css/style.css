@@ -243,3 +243,13 @@ li {
         grid-template-columns: 1fr;
     }
 }
+
+a.card {
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn-more {
+    display: block;
+    text-align: center;
+}
