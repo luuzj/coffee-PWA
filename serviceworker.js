@@ -1,5 +1,5 @@
 // Sube este número cada vez que cambies archivos, para que el celular descargue la versión nueva
-const CACHE_NAME = 'dev-coffe-v2';
+const CACHE_NAME = 'dev-coffe-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
@@ -10,7 +10,17 @@ const ASSETS_TO_CACHE = [
   './js/detalle.js',
   './manifest.json',
   './imagenes/icons/icon-192x192.png',
-  './imagenes/icons/icon-512x512.png'
+  './imagenes/icons/icon-512x512.png',
+  './imagenes/coffe3.jpg',
+  './imagenes/coffee1.jpg',
+  './imagenes/coffee2.jpg',
+  './imagenes/coffee4.jpg',
+  './imagenes/coffee5.jpg',
+  './imagenes/coffee6.jpg',
+  './imagenes/coffee7.jpg',
+  './imagenes/coffee8.jpg',
+  './imagenes/coffee9.jpg',
+  './imagenes/coffee10.jpg'
 ];
 
 // Instalación: guarda recursos clave en el caché
